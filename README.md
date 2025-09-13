@@ -41,8 +41,6 @@ Donut Chart: Customer Type contribution (Retail vs Wholesale).
 Funnel Chart: Lead Conversion analysis.
 Gauge: Churn Rate tracking.
 
-Screenshots/Demos:
-
 Business Impact & Insights:
 Revenue Growth: Profit shows steady growth with only minor monthly dips.
 Regional Focus: North leads in revenue followed by West making them key growth regions.
@@ -50,3 +48,5 @@ Product Strategy: Tables and Laptops drive the highest revenue contribution.
 Customer Mix: Retail and Wholesale sales are nearly equal, ensuring balanced revenue streams.
 Lead Performance: 75% conversion rate indicates strong sales execution.
 Risk Monitoring: 24.8% churn rate highlights need for retention initiatives.
+
+Screenshots/Demos:https://github.com/anshudainsights3/Analysis-Dashboard/blob/main/Sales%20Insights.png
