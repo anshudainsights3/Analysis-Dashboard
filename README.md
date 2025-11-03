@@ -1,52 +1,89 @@
-# Analysis-Dashboard
-Project Title:Revenue & Customer Insights Dashboard
-An interactive Power BI dashboard designed to analyze sales performance, customer distribution, and lead conversion across products and regions, helping businesses drive growth and improve decision-making.
+#  Revenue & Customer Insights Dashboard
 
-Project Description: The Sales & Revenue Performance Dashboard provides an end-to-end view of key business metrics such as revenue, orders, units sold, profit margin, churn rate, and lead conversion. It empowers sales managers, analysts, and decision-makers to track performance trend identify top contributors and optimize strategies for higher profitability.
+##  Project Description
+The **Revenue & Customer Insights Dashboard** is an **interactive Power BI dashboard** designed to analyze **sales performance, customer distribution, and lead conversion** across products and regions.  
+It helps businesses **drive growth, monitor KPIs**, and make data-driven strategic decisions.
 
-Tech Stack:The dashboard was built using the following tools and technologies:
-1.Power BI Desktop – Main data visualization platform used for report creation.
-2.Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-3.DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional logic.
-4.Data Modeling – Relationships established among datasets (sales, customers, leads, regions, and products).
-5.File Format – .pbix for development and .png for dashboard previews.
+---
 
-Data Source: Sales dataset (sample business data) from Kaggle.
-The dataset includes:
-Orders, units sold, and revenue data.
-Regional sales distribution (North, South, East, West, Central).
-Product categories (Chairs, Desks, Laptops, Monitors, Phones, Printers, Tables).
-Customer segmentation (Retail vs Wholesale).
-Lead conversion funnel (Qualified Leads → Opportunities → Converted Leads).
-Churn rate measurement.
+##  Business Problem
+Organizations often struggle to monitor multiple aspects of sales performance such as **churn, conversion, and revenue** within a single view — making it difficult to act quickly on insights and improve profitability.
 
-Features / Highlights:
-Business Problem-Organizations often struggle to monitor multiple aspects of sales performance such as churn, conversion, and revenue within a single view making it hard to act quickly on insights.
+---
 
-Goal of the Dashboard:To provide a unified and interactive tool that tracks sales KPIs, highlights top-performing products/regions, and identifies potential risk areas like churn and lead drop-offs.
+##  Goal of the Dashboard
+To provide a **unified, interactive platform** that tracks **sales KPIs**, highlights **top-performing products and regions**, and identifies **potential risk areas** like churn and lead drop-offs.
 
-Key Questions Answered:
-Which regions and products contribute the most to revenue?
-What is the overall sales performance in terms of revenue, orders, units, and profit margin?
-How balanced is revenue contribution between Retail and Wholesale customers?
-What percentage of leads successfully convert to sales?
-What is the churn rate and does it require strategic intervention?
+---
 
-Key Visuals
-KPI Tiles: Total Revenue, Total Orders, Total Units, Profit Margin.
-Waterfall Chart: Monthly Profit growth and decline analysis.
-Pie Chart: Revenue distribution by Region.
-Bar Chart: Revenue contribution by Product.
-Donut Chart: Customer Type contribution (Retail vs Wholesale).
-Funnel Chart: Lead Conversion analysis.
-Gauge: Churn Rate tracking.
+##  Tech Stack
 
-Business Impact & Insights:
-Revenue Growth: Profit shows steady growth with only minor monthly dips.
-Regional Focus: North leads in revenue followed by West making them key growth regions.
-Product Strategy: Tables and Laptops drive the highest revenue contribution.
-Customer Mix: Retail and Wholesale sales are nearly equal, ensuring balanced revenue streams.
-Lead Performance: 75% conversion rate indicates strong sales execution.
-Risk Monitoring: 24.8% churn rate highlights need for retention initiatives.
+| Tool / Technology | Purpose |
+|--------------------|----------|
+| **Power BI Desktop** | Main data visualization and reporting tool |
+| **Power Query** | Data cleaning, transformation, and reshaping |
+| **DAX (Data Analysis Expressions)** | Calculated measures, KPIs, and business logic |
+| **Data Modeling** | Relationship management between datasets (sales, leads, customers, products) |
+| **File Format** | `.pbix` for development, `.png` for dashboard previews |
 
-Screenshots/Demos:https://github.com/anshudainsights3/Analysis-Dashboard/blob/main/Sales%20Insights.png
+---
+
+##  Data Source
+**Source:** Sample business sales dataset from Kaggle  
+
+### Dataset Includes:
+-  Orders, units sold, and revenue data  
+-  Regional sales distribution (North, South, East, West, Central)  
+-  Product categories (Chairs, Desks, Laptops, Monitors, Phones, Printers, Tables)  
+-  Customer segmentation (Retail vs Wholesale)  
+-  Lead conversion funnel (Qualified Leads → Opportunities → Converted Leads)  
+-  Churn rate measurement  
+
+---
+
+##  Key Questions Answered
+1. Which regions and products contribute the most to **revenue**?  
+2. What is the overall **sales performance** in terms of revenue, orders, units, and profit margin?  
+3. How balanced is **revenue contribution** between Retail and Wholesale customers?  
+4. What percentage of **leads successfully convert** to sales?  
+5. What is the **churn rate**, and does it require strategic intervention?  
+
+---
+
+##  Key Visuals
+
+| Visual Type | Purpose |
+|--------------|----------|
+| **KPI Tiles** | Total Revenue, Total Orders, Total Units, Profit Margin |
+| **Waterfall Chart** | Monthly profit growth and decline analysis |
+| **Pie Chart** | Revenue distribution by region |
+| **Bar Chart** | Revenue contribution by product |
+| **Donut Chart** | Customer type contribution (Retail vs Wholesale) |
+| **Funnel Chart** | Lead conversion analysis |
+| **Gauge** | Churn rate tracking |
+
+---
+
+##  Business Impact & Insights
+1. **Revenue Growth:** Profit shows steady growth with only minor monthly dips.  
+2. **Regional Focus:** North region leads in revenue, followed by the West — key focus areas for future expansion.  
+3. **Product Strategy:** Tables and Laptops contribute the highest revenue share.  
+4. **Customer Mix:** Retail and Wholesale segments contribute almost equally — ensuring balanced revenue streams.  
+5. **Lead Performance:** 75% lead-to-sale conversion rate reflects strong execution.  
+6. **Risk Monitoring:** 24.8% churn rate indicates need for targeted customer retention strategies.  
+
+---
+
+##  Dashboard Preview
+![Revenue & Customer Insights Dashboard](https://github.com/anshudainsights3/Analysis-Dashboard/blob/main/Sales%20Insights.png)
+
+---
+
+##  Developer
+**Anshu Rajput**  
+ *Data Analyst | Power BI & SQL Developer | Insight-Driven Professional*  
+ [GitHub Profile](https://github.com/anshudainsights3)
+
+---
+
+ *If you found this project insightful, don’t forget to star the repository!*
